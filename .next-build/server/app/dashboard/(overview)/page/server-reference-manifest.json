@@ -1,0 +1,20 @@
+{
+  "node": {
+    "00cf168c9a2220b95628cd325190d14ebbe3e0af1a": {
+      "workers": {
+        "app/dashboard/(overview)/page": {
+          "moduleId": 85639,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/ui/dashboard/sidenav.tsx"
+        }
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "app/ui/dashboard/sidenav.tsx"
+    }
+  },
+  "edge": {}
+}

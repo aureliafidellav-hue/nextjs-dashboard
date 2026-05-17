@@ -1,0 +1,3 @@
+module.exports=[89123,a=>{"use strict";var b=a.i(88046),c=a.i(14085);a.s([],51189),a.i(51189),a.s(["00cf168c9a2220b95628cd325190d14ebbe3e0af1a",()=>b.$$RSC_SERVER_ACTION_0,"40e020f0aa4dbdfb5a81c717cd6f75cfce01d62ef5",()=>c.deleteInvoice,"602fb9ec916fe9008af2831230034e08911cb62891",()=>c.authenticate,"609aa34f1696291f691d0bbf0b13931f8e34af36d2",()=>c.createInvoice,"7052434406fdc5d2cb7a03af66299e893cbdc686bb",()=>c.updateInvoice],89123)}];
+
+//# sourceMappingURL=_next-internal_server_app_dashboard_invoices_page_actions_e9cadd74.js.map

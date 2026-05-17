@@ -1,0 +1,3 @@
+module.exports=[62892,a=>{"use strict";var b=a.i(55008),c=a.i(24290);function d(){return(0,b.jsxs)("main",{className:"flex h-full flex-col items-center justify-center gap-2",children:[(0,b.jsx)("h2",{className:"text-xl font-semibold",children:"Invoice not found."}),(0,b.jsx)("p",{children:"Could not find the requested invoice."}),(0,b.jsx)(c.default,{href:"/dashboard/invoices",className:"mt-4 rounded-md bg-blue-500 px-4 py-2 text-sm text-white transition-colors hover:bg-blue-400",children:"Go Back"})]})}a.s(["default",()=>d])}];
+
+//# sourceMappingURL=app_dashboard_invoices_%5Bid%5D_edit_not-found_tsx_18538aa0._.js.map

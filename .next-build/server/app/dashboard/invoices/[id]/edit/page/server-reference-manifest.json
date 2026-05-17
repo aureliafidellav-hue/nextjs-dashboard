@@ -1,0 +1,35 @@
+{
+  "node": {
+    "00cf168c9a2220b95628cd325190d14ebbe3e0af1a": {
+      "workers": {
+        "app/dashboard/invoices/[id]/edit/page": {
+          "moduleId": 6260,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/ui/dashboard/sidenav.tsx"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/[id]/edit/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "app/ui/dashboard/sidenav.tsx"
+    },
+    "7052434406fdc5d2cb7a03af66299e893cbdc686bb": {
+      "workers": {
+        "app/dashboard/invoices/[id]/edit/page": {
+          "moduleId": 6260,
+          "async": false,
+          "exportedName": "updateInvoice",
+          "filename": "app/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      },
+      "exportedName": "updateInvoice",
+      "filename": "app/lib/actions.ts"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,3 @@
+module.exports=[15280,a=>{"use strict";var b=a.i(64781),c=a.i(89982);function d({error:a,reset:d}){return(0,c.useEffect)(()=>{console.error(a)},[a]),(0,b.jsxs)("main",{className:"flex h-full flex-col items-center justify-center",children:[(0,b.jsx)("h2",{className:"text-center",children:"Something went wrong!"}),(0,b.jsx)("button",{className:"mt-4 rounded-md bg-blue-500 px-4 py-2 text-sm text-white transition-colors hover:bg-blue-400",onClick:()=>d(),children:"Try again"})]})}a.s(["default",()=>d])}];
+
+//# sourceMappingURL=app_dashboard_invoices_error_tsx_aa4a716a._.js.map
